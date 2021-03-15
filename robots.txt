@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://MarkOhnsman.github.io/blogsitemap.xml
